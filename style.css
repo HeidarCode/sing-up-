@@ -1,0 +1,91 @@
+body{ 
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+   background-image: url("1573606.jpg"); 
+  background-size: cover;
+  background-position: center;
+}
+.sign-up-form{
+  width: 300px;
+  box-shadow: 0 0 3px 0 #00296B;
+  
+  padding: 20px;
+  margin: 8% auto 0;
+  text-align: center;
+}
+.sign-up-form h1{
+  color: #FDC500;
+  margin-bottom: 30px;
+}
+.input-box{
+  border-radius: 20px;
+  padding: 10px;
+  margin: 10px -10px;
+  width: 100%;
+  border: 1px solid #002561;
+  outline: none;
+  background-color: #00296B;
+}
+button{
+  color: #002561;
+  width: 100%;
+  padding: 10px;
+  border-radius: 20px;
+  font-size: 15px;
+  margin: 10px 0 ;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.Sign-button{
+  background-color: #FDC500;
+
+
+}
+.facebook{
+  background-color: #FDC500;
+}
+#hr{
+  margin-top: 20px;
+  width: 80%;
+  font-size: 20px;
+  color: #00296B;
+}
+#or{
+  color: #FECD00;
+  width: 30px;
+  margin: 5px auto 10px;
+}
+svg{
+  width: 70px;
+  margin-top: -100px;
+  color: #CEB01E;
+}
+.sign-up-form p {
+  color: #D6B419;
+  
+  font-size: 20px;
+}
+a {
+  font-size: 25px;
+  color: #FEE060;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
